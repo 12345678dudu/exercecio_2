@@ -1,0 +1,15 @@
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\build\QT5.1.exe
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\build\QT5.1.deps.json
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\build\QT5.1.runtimeconfig.json
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\build\QT5.1.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\build\QT5.1.pdb
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.AssemblyInfo.cs
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.csproj.CoreCompileInputs.cache
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.sourcelink.json
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\refint\QT5.1.dll
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.pdb
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\QT5.1.genruntimeconfig.cache
+C:\Users\j02\Documents\Eduardo Gomes\Logica de programação\c#\lista de exercício 2\QT5.1\obj\Debug\net8.0\ref\QT5.1.dll
